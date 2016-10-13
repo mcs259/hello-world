@@ -1,3 +1,3 @@
 # hello-world
-Noob on GitHub
+Noob on GitHub.
 Just starting to learn code. 
